@@ -37,14 +37,14 @@ This project was developed for **QuickPath Logistics** to improve delivery effic
 ###  Real-Time Map View
 Shows the actual Hyderabad delivery points and current location on map.
 
-![Map View](screenshots/map_view.png)
+![Map View](Screenshots/map_view.png)
 
 ---
 
 ###  Graph Visualization
 Displays the delivery routes as a connected graph of cities and roads.
 
-![Graph Visual](screenshots/graph_visual.png)
+![Graph Visual](Screenshots/graph_visual.png)
 
 
 ##  How to Run Locally
