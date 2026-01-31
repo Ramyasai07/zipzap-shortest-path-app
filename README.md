@@ -37,7 +37,7 @@ This project was developed for **QuickPath Logistics** to improve delivery effic
 ###  Real-Time Map View
 Shows the actual Hyderabad delivery points and current location on map.
 
-![Map View](Screenshots/map_visual.png)
+![Map Visual](Screenshots/map_visual.png)
 
 ---
 
